@@ -11,7 +11,6 @@ In this project I used Amazon website to test random pages e.g. product page, lo
 * Mavenised performance tests
 * Externalised test configuration
 * Commonly used test utility classes
-* Simple security tests
 
 ## Tools
 
