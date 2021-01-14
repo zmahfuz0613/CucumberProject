@@ -4,7 +4,6 @@ In this project I used Amazon website to test random pages e.g. product page, lo
 
 ## Concepts Included
 
-* Parallel test runs
 * Shared state across cucumber step definitions
 * Dependency injection
 * Page Object pattern
