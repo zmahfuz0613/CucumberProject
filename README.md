@@ -19,7 +19,6 @@ In this project I used Amazon website to test random pages e.g. product page, lo
 * JUnit
 * Selenium Webdriver
 * testNg
-* Page Object Model
 
 ## Requirements
 
