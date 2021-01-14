@@ -48,4 +48,5 @@ API acceptance tests result in a HTML report for each feature in `test-automatio
 Performance tests result in a `.jtl` results file and `.png` graphs showing response times and transactions per second, generated in `test-automation-quickstart/performance-tests/target/jmeter/results`.
 
 *NOTE*:
+## Post MVP
 This test is not running parallely and still work on progress to run the test parallely. Since this is a personal project, I am constantly working on it to use different test e.g. smoke test, feature test, regression test.
